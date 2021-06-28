@@ -1,0 +1,5 @@
+vishnu: nopany, mahika
+gaayen: sarvesh, nopany
+sarvesh: mahika, nopany
+nopany: gaayen, mahika
+mahika: gaayen, sarvesh, nopany
